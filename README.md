@@ -1,2 +1,2 @@
 # Embedded-Image-Processing
-Matlab project for image processing
+Matlab projects for image processing
